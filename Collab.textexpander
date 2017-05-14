@@ -343,6 +343,14 @@
         <key>plainText</key>
         <string>one</string>
       </dict>
+      <dict>
+        <key>abbreviation</key>
+        <string>two</string>
+        <key>label</key>
+        <string>two</string>
+        <key>plainText</key>
+        <string>two</string>
+      </dict>
     </array>
   </dict>
 </plist>
