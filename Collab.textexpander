@@ -337,6 +337,14 @@
       </dict>
       <dict>
         <key>abbreviation</key>
+        <string>one</string>
+        <key>label</key>
+        <string>one</string>
+        <key>plainText</key>
+        <string>one</string>
+      </dict>
+      <dict>
+        <key>abbreviation</key>
         <string>two</string>
         <key>label</key>
         <string>two</string>
