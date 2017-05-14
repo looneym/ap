@@ -327,6 +327,14 @@
         <key>plainText</key>
         <string>fff</string>
       </dict>
+      <dict>
+        <key>abbreviation</key>
+        <string>hand</string>
+        <key>label</key>
+        <string>CSE handover</string>
+        <key>plainText</key>
+        <string>This is a lot of text This is a lot of text This is a lot of text This is a lot of text This is a lot of text This is a lot of text This is a lot of text This is a lot of text This is a lot of text This is a lot of text </string>
+      </dict>
     </array>
   </dict>
 </plist>
