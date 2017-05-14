@@ -359,6 +359,14 @@
         <key>plainText</key>
         <string>three</string>
       </dict>
+      <dict>
+        <1494788055>abbreviation</1494788055>
+        <1494788055>six</1494788055>
+        <1494788055>label</1494788055>
+        <1494788055>six</1494788055>
+        <1494788055>plainText</1494788055>
+        <1494788055>six</1494788055>
+      </dict>
     </array>
   </dict>
 </plist>
