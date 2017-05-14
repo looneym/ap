@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>groupInfo</key>
+  <dict>
+    <key>expandAfterMode</key>
+    <integer>0</integer>
+    <key>groupName</key>
+    <string>Slack Status - Travolta</string>
+    <key>notes</key>
+    <string></string>
+  </dict>
+  <key>snippetsTE2</key>
+  <array>
+    <dict>
+      <key>abbreviation</key>
+      <string>statswim</string>
+      <key>abbreviationMode</key>
+      <integer>0</integer>
+      <key>creationDate</key>
+      <date>2017-04-28T14:42:33Z</date>
+      <key>htmlText</key>
+      <string>&lt;p style="font-style: normal; font-variant-caps: normal; font-weight: normal; line-height: normal;"&gt;&lt;span class="colour" style="color:rgb(0, 0, 0)"&gt;&lt;span class="font" style="font-family:'.AppleSystemUIFont'"&gt;&lt;span class="size" style="font-size:12px"&gt;/status :swimmer:  %key:enter%%key:enter%%key:enter%&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</string>
+      <key>label</key>
+      <string>Slack Status - Swimming/Diving</string>
+      <key>modificationDate</key>
+      <date>2017-05-04T15:33:49Z</date>
+      <key>plainText</key>
+      <string>/status :swimmer:  %key:enter%%key:enter%%key:enter%</string>
+      <key>snippetType</key>
+      <integer>5</integer>
+      <key>uuidString</key>
+      <string>223EF191-BA86-418E-BD93-667962546D76</string>
+    </dict>
+    <dict>
+      <key>abbreviation</key>
+      <string>statlun</string>
+      <key>abbreviationMode</key>
+      <integer>0</integer>
+      <key>creationDate</key>
+      <date>2017-04-28T14:42:33Z</date>
+      <key>htmlText</key>
+      <string>&lt;p style="font-style: normal; font-variant-caps: normal; font-weight: normal; line-height: normal;"&gt;&lt;span class="colour" style="color:rgb(0, 0, 0)"&gt;&lt;span class="font" style="font-family:'.AppleSystemUIFont'"&gt;&lt;span class="size" style="font-size:12px"&gt;/status :hamburger:  %key:enter%%key:enter%%key:enter%&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</string>
+      <key>label</key>
+      <string>Slack Status - Lunch</string>
+      <key>modificationDate</key>
+      <date>2017-05-04T15:33:39Z</date>
+      <key>plainText</key>
+      <string>/status :hamburger:  %key:enter%%key:enter%%key:enter%</string>
+      <key>snippetType</key>
+      <integer>5</integer>
+      <key>uuidString</key>
+      <string>B808E297-CF49-4BFC-B10B-64CD11D6D53F</string>
+    </dict>
+    <dict>
+      <key>abbreviation</key>
+      <string>statooti</string>
+      <key>abbreviationMode</key>
+      <integer>0</integer>
+      <key>creationDate</key>
+      <date>2017-04-28T14:42:33Z</date>
+      <key>htmlText</key>
+      <string>&lt;p style="font-style: normal; font-variant-caps: normal; font-weight: normal; line-height: normal;"&gt;&lt;span class="colour" style="color:rgb(0, 0, 0)"&gt;&lt;span class="font" style="font-family:'.AppleSystemUIFont'"&gt;&lt;span class="size" style="font-size:12px"&gt;/status :date:  %key:enter%%key:enter%&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;%key:enter%&lt;/p&gt;</string>
+      <key>label</key>
+      <string>Slack Status - OOTI</string>
+      <key>modificationDate</key>
+      <date>2017-05-04T15:33:58Z</date>
+      <key>plainText</key>
+      <string>/status :date:  %key:enter%%key:enter%%key:enter%</string>
+      <key>snippetType</key>
+      <integer>5</integer>
+      <key>uuidString</key>
+      <string>D7C8F10E-FC11-4E52-8051-C7ED7BAB061A</string>
+    </dict>
+    <dict>
+      <key>abbreviation</key>
+      <string>statoi</string>
+      <key>abbreviationMode</key>
+      <integer>0</integer>
+      <key>creationDate</key>
+      <date>2017-04-28T14:42:33Z</date>
+      <key>htmlText</key>
+      <string>&lt;p style="font-style: normal; font-variant-caps: normal; font-weight: normal; line-height: normal;"&gt;&lt;span class="colour" style="color:rgb(0, 0, 0)"&gt;&lt;span class="font" style="font-family:'.AppleSystemUIFont'"&gt;&lt;span class="size" style="font-size:12px"&gt;/status :inbox_tray:  %key:enter%%key:enter%%key:enter%&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</string>
+      <key>label</key>
+      <string>Slack Status - Own Inbox</string>
+      <key>modificationDate</key>
+      <date>2017-05-04T15:34:03Z</date>
+      <key>plainText</key>
+      <string>/status :inbox_tray:  %key:enter%%key:enter%%key:enter%</string>
+      <key>snippetType</key>
+      <integer>5</integer>
+      <key>uuidString</key>
+      <string>279635D7-2C32-4F38-82C4-ECABB449E331</string>
+    </dict>
+    <dict>
+      <key>abbreviation</key>
+      <string>statun</string>
+      <key>abbreviationMode</key>
+      <integer>0</integer>
+      <key>creationDate</key>
+      <date>2017-04-28T14:42:33Z</date>
+      <key>htmlText</key>
+      <string>&lt;p style="font-style: normal; font-variant-caps: normal; font-weight: normal; line-height: normal;"&gt;&lt;span class="colour" style="color:rgb(0, 0, 0)"&gt;&lt;span class="font" style="font-family:'.AppleSystemUIFont'"&gt;&lt;span class="size" style="font-size:12px"&gt;/status :swimmer: In Unassigned %key:enter%%key:enter%%key:enter%&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</string>
+      <key>label</key>
+      <string>Slack Status - Swimming/Diving (Unassigned)</string>
+      <key>modificationDate</key>
+      <date>2017-05-05T11:05:16Z</date>
+      <key>plainText</key>
+      <string>/status :swimmer: In Unassigned %key:enter%%key:enter%%key:enter%</string>
+      <key>snippetType</key>
+      <integer>5</integer>
+      <key>uuidString</key>
+      <string>40DBC21A-6E5F-4F42-90DB-262AFA7276E5</string>
+    </dict>
+    <dict>
+      <key>abbreviation</key>
+      <string>statvip</string>
+      <key>abbreviationMode</key>
+      <integer>0</integer>
+      <key>creationDate</key>
+      <date>2017-04-28T14:42:33Z</date>
+      <key>htmlText</key>
+      <string>&lt;p style="font-style: normal; font-variant-caps: normal; font-weight: normal; line-height: normal;"&gt;&lt;span class="colour" style="color:rgb(0, 0, 0)"&gt;&lt;span class="font" style="font-family:'.AppleSystemUIFont'"&gt;&lt;span class="size" style="font-size:12px"&gt;/status :swimmer: In VIP Inbox %key:enter%%key:enter%%key:enter%&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</string>
+      <key>label</key>
+      <string>Slack Status - Swimming/Diving (VIP)</string>
+      <key>modificationDate</key>
+      <date>2017-05-05T11:05:34Z</date>
+      <key>plainText</key>
+      <string>/status :swimmer: In VIP Inbox %key:enter%%key:enter%%key:enter%</string>
+      <key>snippetType</key>
+      <integer>5</integer>
+      <key>uuidString</key>
+      <string>25158E33-B5B2-4E7F-8563-4CDCB1512824</string>
+    </dict>
+    <dict>
+      <key>abbreviation</key>
+      <string>statcse</string>
+      <key>abbreviationMode</key>
+      <integer>0</integer>
+      <key>creationDate</key>
+      <date>2017-04-28T14:42:33Z</date>
+      <key>htmlText</key>
+      <string>&lt;p style="font-style: normal; font-variant-caps: normal; font-weight: normal; line-height: normal;"&gt;&lt;span class="colour" style="color:rgb(0, 0, 0)"&gt;&lt;span class="font" style="font-family:'.AppleSystemUIFont'"&gt;&lt;span class="size" style="font-size:12px"&gt;/status :swimmer: In CSE Inbox %key:enter%%key:enter%%key:enter%&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</string>
+      <key>label</key>
+      <string>Slack Status - Swimming/Diving (CSE)</string>
+      <key>modificationDate</key>
+      <date>2017-05-05T11:05:31Z</date>
+      <key>plainText</key>
+      <string>/status :swimmer: In CSE Inbox %key:enter%%key:enter%%key:enter%</string>
+      <key>snippetType</key>
+      <integer>5</integer>
+      <key>uuidString</key>
+      <string>6A8DB320-7694-4859-ABCE-9909C67B4BFC</string>
+    </dict>
+    <dict>
+      <key>abbreviation</key>
+      <string>statcar</string>
+      <key>abbreviationMode</key>
+      <integer>0</integer>
+      <key>creationDate</key>
+      <date>2017-04-28T14:42:33Z</date>
+      <key>htmlText</key>
+      <string>&lt;p style="font-style: normal; font-variant-caps: normal; font-weight: normal; line-height: normal;"&gt;&lt;span class="colour" style="color:rgb(0, 0, 0)"&gt;&lt;span class="font" style="font-family:'.AppleSystemUIFont'"&gt;&lt;span class="size" style="font-size:12px"&gt;/status :date: Doing Carousel Reviews %key:enter%%key:enter%&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;%key:enter%&lt;/p&gt;</string>
+      <key>label</key>
+      <string>Slack Status - OOTI (Carousel)</string>
+      <key>modificationDate</key>
+      <date>2017-05-05T11:05:58Z</date>
+      <key>plainText</key>
+      <string>/status :date: Doing Carousel Reviews %key:enter%%key:enter%%key:enter%</string>
+      <key>snippetType</key>
+      <integer>5</integer>
+      <key>uuidString</key>
+      <string>D4890314-5EE6-413B-B7E6-C5B2AF2D08D0</string>
+    </dict>
+    <dict>
+      <key>abbreviation</key>
+      <string>statmeet</string>
+      <key>abbreviationMode</key>
+      <integer>0</integer>
+      <key>creationDate</key>
+      <date>2017-04-28T14:42:33Z</date>
+      <key>htmlText</key>
+      <string>&lt;p style="font-style: normal; font-variant-caps: normal; font-weight: normal; line-height: normal;"&gt;&lt;span class="colour" style="color:rgb(0, 0, 0)"&gt;&lt;span class="font" style="font-family:'.AppleSystemUIFont'"&gt;&lt;span class="size" style="font-size:12px"&gt;/status :date: In a meeting %key:enter%%key:enter%&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;%key:enter%&lt;/p&gt;</string>
+      <key>label</key>
+      <string>Slack Status - OOTI (Meeting) V1</string>
+      <key>modificationDate</key>
+      <date>2017-05-05T11:08:59Z</date>
+      <key>plainText</key>
+      <string>/status :date: In a meeting %key:enter%%key:enter%%key:enter%</string>
+      <key>snippetType</key>
+      <integer>5</integer>
+      <key>uuidString</key>
+      <string>8515D393-2541-40A4-8FA2-3CAB5DFFBFBA</string>
+    </dict>
+    <dict>
+      <key>abbreviation</key>
+      <string>statiam</string>
+      <key>abbreviationMode</key>
+      <integer>0</integer>
+      <key>creationDate</key>
+      <date>2017-04-28T14:42:33Z</date>
+      <key>htmlText</key>
+      <string>&lt;p style="font-style: normal; font-variant-caps: normal; font-weight: normal; line-height: normal;"&gt;&lt;span class="colour" style="color:rgb(0, 0, 0)"&gt;&lt;span class="font" style="font-family:'.AppleSystemUIFont'"&gt;&lt;span class="size" style="font-size:12px"&gt;/status :date: In a meeting %key:enter%%key:enter%&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;%key:enter%&lt;/p&gt;</string>
+      <key>label</key>
+      <string>Slack Status - OOTI (Meeting) V2</string>
+      <key>modificationDate</key>
+      <date>2017-05-05T11:08:56Z</date>
+      <key>plainText</key>
+      <string>/status :date: In a meeting %key:enter%%key:enter%%key:enter%</string>
+      <key>snippetType</key>
+      <integer>5</integer>
+      <key>uuidString</key>
+      <string>BBE72DC5-18D1-42AF-B71C-C8EA3D7B0877</string>
+    </dict>
+    <dict>
+      <key>abbreviation</key>
+      <string>statpair</string>
+      <key>abbreviationMode</key>
+      <integer>0</integer>
+      <key>creationDate</key>
+      <date>2017-04-28T14:42:33Z</date>
+      <key>htmlText</key>
+      <string>&lt;p style="font-style: normal; font-variant-caps: normal; font-weight: normal; line-height: normal;"&gt;&lt;span class="colour" style="color:rgb(0, 0, 0)"&gt;&lt;span class="font" style="font-family:'.AppleSystemUIFont'"&gt;&lt;span class="size" style="font-size:12px"&gt;/status :date: In Pair Inbox %key:enter%%key:enter%&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;%key:enter%&lt;/p&gt;</string>
+      <key>label</key>
+      <string>Slack Status - OOTI (Pair Inboxing)</string>
+      <key>modificationDate</key>
+      <date>2017-05-05T11:08:51Z</date>
+      <key>plainText</key>
+      <string>/status :date: In Pair Inbox %key:enter%%key:enter%%key:enter%</string>
+      <key>snippetType</key>
+      <integer>5</integer>
+      <key>uuidString</key>
+      <string>75558037-BC38-4FC9-BE3D-CE31AC627445</string>
+    </dict>
+    <dict>
+      <key>abbreviation</key>
+      <string>stat1</string>
+      <key>abbreviationMode</key>
+      <integer>0</integer>
+      <key>creationDate</key>
+      <date>2017-04-28T14:42:33Z</date>
+      <key>htmlText</key>
+      <string>&lt;p style="font-style: normal; font-variant-caps: normal; font-weight: normal; line-height: normal;"&gt;&lt;span class="colour" style="color:rgb(0, 0, 0)"&gt;&lt;span class="font" style="font-family:'.AppleSystemUIFont'"&gt;&lt;span class="size" style="font-size:12px"&gt;/status :date: In 1:1 %key:enter%%key:enter%&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;%key:enter%&lt;/p&gt;</string>
+      <key>label</key>
+      <string>Slack Status - OOTI (1:1) V2</string>
+      <key>modificationDate</key>
+      <date>2017-05-05T11:08:01Z</date>
+      <key>plainText</key>
+      <string>/status :date: In 1:1 %key:enter%%key:enter%%key:enter%</string>
+      <key>snippetType</key>
+      <integer>5</integer>
+      <key>uuidString</key>
+      <string>9637ACCC-95D4-4117-ABA8-98618FAFAC2A</string>
+    </dict>
+    <dict>
+      <key>abbreviation</key>
+      <string>statone</string>
+      <key>abbreviationMode</key>
+      <integer>0</integer>
+      <key>creationDate</key>
+      <date>2017-04-28T14:42:33Z</date>
+      <key>htmlText</key>
+      <string>&lt;p style="font-style: normal; font-variant-caps: normal; font-weight: normal; line-height: normal;"&gt;&lt;span class="colour" style="color:rgb(0, 0, 0)"&gt;&lt;span class="font" style="font-family:'.AppleSystemUIFont'"&gt;&lt;span class="size" style="font-size:12px"&gt;/status :date: In 1:1 %key:enter%%key:enter%&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;%key:enter%&lt;/p&gt;</string>
+      <key>label</key>
+      <string>Slack Status - OOTI (1:1) V2</string>
+      <key>modificationDate</key>
+      <date>2017-05-05T11:07:53Z</date>
+      <key>plainText</key>
+      <string>/status :date: In 1:1 %key:enter%%key:enter%%key:enter%</string>
+      <key>snippetType</key>
+      <integer>5</integer>
+      <key>uuidString</key>
+      <string>1F0039F0-3822-4606-AA10-42C35997E156</string>
+    </dict>
+    <dict>
+      <key>abbreviation</key>
+      <string>statcher</string>
+      <key>abbreviationMode</key>
+      <integer>0</integer>
+      <key>creationDate</key>
+      <date>2017-04-28T14:42:33Z</date>
+      <key>htmlText</key>
+      <string>&lt;p style="font-style: normal; font-variant-caps: normal; font-weight: normal; line-height: normal;"&gt;&lt;span class="colour" style="color:rgb(0, 0, 0)"&gt;&lt;span class="font" style="font-family:'.AppleSystemUIFont'"&gt;&lt;span class="size" style="font-size:12px"&gt;/status :swimmer: Cherry Blitzing %key:enter%%key:enter%&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;%key:enter%&lt;/p&gt;</string>
+      <key>label</key>
+      <string>Slack Status - Swimming (Cherry Blitz) V1</string>
+      <key>modificationDate</key>
+      <date>2017-05-12T14:52:56Z</date>
+      <key>plainText</key>
+      <string>/status :swimmer: Cherry Blitzing %key:enter%%key:enter%%key:enter%</string>
+      <key>snippetType</key>
+      <integer>5</integer>
+      <key>uuidString</key>
+      <string>BBE72DC5-18D1-42AF-B71C-C8EA3D7B0877</string>
+    </dict>
+    <dict>
+      <key>abbreviation</key>
+      <string>statcb</string>
+      <key>abbreviationMode</key>
+      <integer>0</integer>
+      <key>creationDate</key>
+      <date>2017-04-28T14:42:33Z</date>
+      <key>htmlText</key>
+      <string>&lt;p style="font-style: normal; font-variant-caps: normal; font-weight: normal; line-height: normal;"&gt;&lt;span class="colour" style="color:rgb(0, 0, 0)"&gt;&lt;span class="font" style="font-family:'.AppleSystemUIFont'"&gt;&lt;span class="size" style="font-size:12px"&gt;/status :swimmer: Cherry Blitzing %key:enter%%key:enter%&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;%key:enter%&lt;/p&gt;</string>
+      <key>label</key>
+      <string>Slack Status - Swimming (Cherry Blitz) V2</string>
+      <key>modificationDate</key>
+      <date>2017-05-12T14:52:56Z</date>
+      <key>plainText</key>
+      <string>/status :swimmer: Cherry Blitzing %key:enter%%key:enter%%key:enter%</string>
+      <key>snippetType</key>
+      <integer>5</integer>
+      <key>uuidString</key>
+      <string>BBE72DC5-18D1-42AF-B71C-C8EA3D7B0877</string>
+    </dict>
+    <dict>
+      <key>abbreviation</key>
+      <string>pt</string>
+      <key>label</key>
+      <string>progtest</string>
+      <key>plainText</key>
+      <string>progtest</string>
+    </dict>
+  </array>
+</dict>
+</plist>
