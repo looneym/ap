@@ -359,6 +359,14 @@
         <key>plainText</key>
         <string>three</string>
       </dict>
+      <dict>
+        <key timestamp="1494788296">abbreviation</key>
+        <string timestamp="1494788296">seven</string>
+        <key timestamp="1494788296">label</key>
+        <string timestamp="1494788296">seven</string>
+        <key timestamp="1494788296">plainText</key>
+        <string timestamp="1494788296">seven</string>
+      </dict>
     </array>
   </dict>
 </plist>
